@@ -29,7 +29,7 @@ A simple **To-Do List application** built using **Node.js, Express, PostgreSQL, 
 ##  **Installation & Setup**  
 
 ### 1️ Clone the repository  
-git clone https://github.com/YourUsername/todo-list-app.git
+git clone https://github.com/MohamedAshiq017/toDoList/.git
 cd todo-list-app
 ### 2 Database Setup
 run the queries mentioned in the "queries.sql" to create database and table.
